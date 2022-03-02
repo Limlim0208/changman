@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
-  <title>Jumpscare</title>
-</head>
-
-  <body>
+<!DOCTYPE C>
+  <script>
 #include <stdio.h>
 #include <time.h>
 
@@ -36,5 +29,5 @@ int main() {
   
   return 0;
 }
-    </body>
-    </html>
+    </script>
+    </C>
